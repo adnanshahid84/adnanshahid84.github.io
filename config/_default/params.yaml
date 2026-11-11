@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Assistant Professor at Ghent University · Principal Researcher at imec"
+    tagline: "Assistant Professor at Ghent University · Principal Investigator at imec"
     # Site meta description for search engines and social sharing
-    description: "Academic website of Adnan Shahid, Assistant Professor at Ghent University and Principal Researcher at imec. Research in RF signal intelligence, AI/ML for wireless, and 5G/6G networks."
+    description: "Academic website of Adnan Shahid, Assistant Professor at Ghent University and Principal Investigator at imec. Research in RF signal intelligence, AI/ML for wireless, and 5G/6G networks."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
