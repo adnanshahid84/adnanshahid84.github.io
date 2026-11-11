@@ -6,6 +6,14 @@ date: 2026-11-11
 
 My research investigates how artificial intelligence and machine learning can help wireless systems sense their environment, share spectrum, and adapt their operation. I lead the **AI/ML for Wireless** effort at IDLab-iWiNe, Ghent University and imec.
 
+## A connected research vision
+
+**Intelligent wireless systems for society** is the shared goal connecting these research themes. Wireless AI and foundation models provide reusable representations; RF signal intelligence brings spectrum awareness; and Agentic AI turns sensing and reasoning into adaptive network control. O-RAN and RAN optimization, future 6G systems, and integrated terrestrial and non-terrestrial networks bring these capabilities together in open, resilient wireless infrastructure.
+
+[![Research overview connecting wireless AI and foundation models, O-RAN and intelligent RAN optimization, RF signal intelligence and spectrum awareness, 6G and future wireless systems, non-terrestrial and integrated networks, and Agentic AI and autonomous wireless networks around intelligent wireless systems for society.](/media/research-overview.png)](/media/research-overview.png)
+
+*From shared intelligence to real-world impact: connecting research themes through experimentation for resilient connectivity, connected sensing and healthcare, mobility, and public safety. Select the figure to view it at full size.*
+
 ## Research themes
 
 ### RF signal intelligence
