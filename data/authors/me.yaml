@@ -12,11 +12,13 @@ role: Assistant Professor at Ghent University · Principal Investigator at imec
 bio: |
   Adnan Shahid is an Assistant Professor at Ghent University and a Principal Investigator at imec. He leads AI/ML for Wireless at IDLab-iWiNe. His work focuses on artificial intelligence and machine learning for wireless communications and networks, including 5G/6G, RF signal intelligence, and radio access network optimization.
 
+
 affiliations:
   - name: Ghent University
     url: https://www.ugent.be/
   - name: imec
     url: https://www.imec-int.com/
+
 
 links:
   - icon: at-symbol
@@ -26,6 +28,7 @@ links:
     url: https://github.com/adnanshahid84
     label: GitHub
 
+
 interests:
   - RF Signal Intelligence
   - AI/ML for Wireless
@@ -33,64 +36,5 @@ interests:
   - Wireless Communications
   - RAN Optimization
   - Wireless Foundation Models
+  - Agentic AI
   - Localization
-
-education:
-  - degree: Ph.D. in Information and Communication Engineering
-    institution: Sejong University
-    year: 2012–2015
-    summary: Dissertation on self-organized resource management for next-generation heterogeneous networks, including femtocells and LTE-Advanced.
-  - degree: M.Sc. in Computer Engineering
-    institution: University of Engineering and Technology Taxila
-    year: 2008–2010
-    summary: Thesis on cognitive ALE for HF radios.
-  - degree: B.Sc. in Computer Engineering
-    institution: University of Engineering and Technology Taxila
-    year: 2003–2006
-    summary: Thesis on implementation of an MC-CDMA modem on a DSP processor.
-
-experience:
-  - role: Assistant Professor
-    org: Ghent University
-    start: 2016-06-01
-    summary: Lead of AI/ML for Wireless at IDLab-iWiNe. Teaching and research in wireless communications and networks.
-  - role: Principal Investigator
-    org: imec
-    start: 2016-06-01
-    summary: Research on AI and machine learning for wireless communications and networks.
-  - role: Assistant Professor
-    org: Taif University
-    start: 2015-09-01
-    end: 2016-05-31
-    summary: Teaching and curriculum design in computer engineering.
-  - role: Postdoctoral Researcher
-    org: Yonsei University
-    start: 2015-03-01
-    end: 2015-08-31
-    summary: Research on game-theoretic interference management and self-organization in heterogeneous cellular networks.
-  - role: Ph.D. Researcher
-    org: Sejong University
-    start: 2012-08-01
-    end: 2015-02-28
-    summary: Research on resource management in heterogeneous cellular networks.
-  - role: Lecturer
-    org: National University of Computer and Emerging Sciences (NUCES-FAST)
-    start: 2008-03-01
-    end: 2012-07-31
-    summary: Teaching in communications, signal processing, probability, and circuit analysis.
-
-awards:
-  - title: Secretary, IEEE P1900.8
-    awarder: IEEE P1900.8
-    date: "2021"
-    summary: Elected Secretary of the standard for training, testing, and evaluating machine-learned spectrum-awareness models.
-    icon: hero/academic-cap
-  - title: Top five team, MIT RF Challenge
-    awarder: MIT RF Challenge
-    date: "2021"
-    icon: hero/trophy
-  - title: Team SCATTER, DARPA Spectrum Collaboration Challenge
-    awarder: DARPA
-    date: "2017–2019"
-    summary: Team member; the team won Phase 1 and Phase 2 and was a finalist in the championship event.
-    icon: hero/trophy
