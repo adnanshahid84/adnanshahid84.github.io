@@ -7,7 +7,7 @@ date: 2026-11-11
 ## Appointments
 
 - **Assistant Professor**, Ghent University — June 2016–present. Lead of AI/ML for Wireless at IDLab-iWiNe.
-- **Principal Researcher**, imec — June 2016–present.
+- **Principal Investigator**, imec — June 2016–present.
 - **Assistant Professor**, Taif University — September 2015–May 2016.
 - **Postdoctoral Researcher**, Yonsei University — March–August 2015.
 - **Ph.D. Researcher**, Sejong University — August 2012–February 2015.

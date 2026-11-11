@@ -8,7 +8,7 @@ sections:
     content:
       username: me
       text: >-
-        Assistant Professor at Ghent University and Principal Researcher at imec.
+        Assistant Professor at Ghent University and Principal Investigator at imec.
         I lead AI/ML for Wireless at IDLab-iWiNe, working on intelligent and
         resilient wireless communications and networks.
       button:
