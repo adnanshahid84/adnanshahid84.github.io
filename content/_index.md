@@ -30,7 +30,7 @@ sections:
       text: >-
         My research explores how AI and machine learning can improve wireless
         communications and network operation. Current interests include RF
-        signal intelligence, wireless foundation models, 5G/6G systems, RAN
+        signal intelligence, Agentic AI, wireless foundation models, 5G/6G systems, RAN
         optimization, non-terrestrial networks, localization, and connected
         healthcare.
     design:
