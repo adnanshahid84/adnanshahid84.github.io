@@ -32,10 +32,11 @@ sections:
         communications and network operation. Current interests include RF
         signal intelligence, Agentic AI, wireless foundation models, 5G/6G systems, RAN
         optimization, non-terrestrial networks, localization, and connected
-        healthcare.
+        healthcare. My work spans RF sensing and signal intelligence, handover and
+        beam management, RAN split architectures, and resilient terrestrial and
+        non-terrestrial communications.
     design:
       columns: "1"
----
   - block: markdown
     content:
       title: Explore
@@ -44,3 +45,4 @@ sections:
         [teaching](/teaching/), and [doctoral supervision](/supervision/).
     design:
       columns: "1"
+---
