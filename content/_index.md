@@ -24,6 +24,28 @@ sections:
       avatar:
         size: medium
         shape: circle
+  - block: logos
+    content:
+      title: Affiliations
+      subtitle: Ghent University · imec · IDLab
+      items:
+        - name: Ghent University
+          image: affiliations/ugent.png
+          url: https://www.ugent.be/en
+          scale: 1.8
+        - name: imec
+          image: affiliations/imec.png
+          url: https://www.imec-int.com/
+        - name: IDLab
+          image: affiliations/idlab.png
+          url: https://idlab.ugent.be/
+    design:
+      layout: row
+      logo_style: color
+      logo_size: lg
+      css_class: affiliation-logos
+      spacing:
+        padding: ["0", "0", "0", "0"]
   - block: markdown
     content:
       title: Research

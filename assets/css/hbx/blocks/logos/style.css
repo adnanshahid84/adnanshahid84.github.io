@@ -1,0 +1,14 @@
+.affiliation-logos .logos-block-container a {
+  width: 12rem;
+  min-height: 8rem;
+  margin: 0.5rem;
+  padding: 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  background-color: #fff;
+}
+
+.affiliation-logos .logos-block-container a:focus-visible {
+  outline: 3px solid #2563eb;
+  outline-offset: 4px;
+}
