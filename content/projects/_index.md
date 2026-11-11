@@ -12,11 +12,11 @@ sections:
 
         ### Current and recent
 
-        - **Electromagnetic for Drone Detection and Tracking (D-TECT)** — DEFRA. December 2026–December 2029. **Budget:** €2,000,000. **Role:** PI.
-        - **Sovereign Agentic Network for Tactical Infrastructure-less Next Generation Electronic Warfare Resilient Links (SENTINEL)** — Bilateral project with the Ministry of Defense, Belgium. April 2026–April 2030. **Budget:** €6,000,000. **Role:** PI.
-        - **Resilient Communications (ResCom)** — imec Prospect. September 2026–September 2028. **Budget:** €2,000,000. **Role:** PI.
-        - **Bilateral project with EDGX** — February 2026–July 2026. **Budget:** €150,000. **Role:** PI.
-        - **RAPIDNESS** — imec ICON. March 2026–March 2028. **Budget:** €3,190,365.28. **Role:** PI.
+        - **Electromagnetic for Drone Detection and Tracking (D-TECT)** — DEFRA. December 2026–December 2029. **Role:** PI.
+        - **Sovereign Agentic Network for Tactical Infrastructure-less Next Generation Electronic Warfare Resilient Links (SENTINEL)** — Bilateral project with the Ministry of Defense, Belgium. April 2026–April 2030. **Role:** PI.
+        - **Resilient Communications (ResCom)** — imec Prospect. September 2026–September 2028. **Role:** PI.
+        - **Bilateral project with EDGX** — February 2026–July 2026. **Role:** PI.
+        - **RAPIDNESS** — imec ICON. March 2026–March 2028. **Role:** PI.
         - **6G Trans-Continental Edge Learning (6GXCEL)** — Horizon Europe, 6G SNS. January 2024–December 2026. **Role:** PI.
         - **Electric Vehicles Point Location Optimisation via Vehicular Communications** — MSCA Staff Exchanges, Horizon Europe. January 2023–January 2027. **Role:** PI.
         - **TRials supported by Smart Networks beyond 5G (TrialsNet)** — Horizon Europe, 6G SNS. January 2023–December 2025. **Role:** Co-PI.
