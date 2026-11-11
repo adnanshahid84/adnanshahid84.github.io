@@ -8,9 +8,9 @@ name:
 postnominals:
   - Ph.D.
   - SMIEEE
-role: Assistant Professor at Ghent University · Principal Researcher at imec
+role: Assistant Professor at Ghent University · Principal Investigator at imec
 bio: |
-  Adnan Shahid is an Assistant Professor at Ghent University and a Principal Researcher at imec. He leads AI/ML for Wireless at IDLab-iWiNe. His work focuses on artificial intelligence and machine learning for wireless communications and networks, including 5G/6G, RF signal intelligence, and radio access network optimization.
+  Adnan Shahid is an Assistant Professor at Ghent University and a Principal Investigator at imec. He leads AI/ML for Wireless at IDLab-iWiNe. His work focuses on artificial intelligence and machine learning for wireless communications and networks, including 5G/6G, RF signal intelligence, and radio access network optimization.
 
 affiliations:
   - name: Ghent University
@@ -54,7 +54,7 @@ experience:
     org: Ghent University
     start: 2016-06-01
     summary: Lead of AI/ML for Wireless at IDLab-iWiNe. Teaching and research in wireless communications and networks.
-  - role: Principal Researcher
+  - role: Principal Investigator
     org: imec
     start: 2016-06-01
     summary: Research on AI and machine learning for wireless communications and networks.
