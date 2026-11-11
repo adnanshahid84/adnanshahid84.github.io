@@ -1,0 +1,6 @@
+/public/
+/resources/_gen/
+/resources/_hugoblox/
+/node_modules/
+/.hugo_build.lock
+/hugo_stats.json
