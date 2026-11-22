@@ -21,7 +21,7 @@ The workflows in `.github/workflows/` build the site and deploy it to GitHub Pag
 
 Edit the Markdown files in `content/` and profile details in `data/authors/me.yaml`. The public CV page is a web-formatted academic profile. The private source CV is not part of this repository. Phone numbers, street addresses, and reference contact details are excluded.
 
-The [publications page](content/publications/_index.md) includes the complete CV publication list, grouped by category and year, plus newer preprints. Keep its category counts and Markdown reference links in sync when adding entries. Prefer verified publisher, DOI, preprint, or institutional repository links; label search links explicitly when a public record cannot be verified.
+The [publications page](content/publications/_index.md) includes the complete CV publication list, grouped by category and year, plus newer preprints. Keep its category counts and Markdown reference links in sync when adding entries. Link IEEE papers directly to their verified IEEE Xplore document pages rather than UGent bibliography records. For other publications, prefer verified publisher, DOI, preprint, or institutional repository links; label search links explicitly when a public record cannot be verified.
 
 ## Template
 

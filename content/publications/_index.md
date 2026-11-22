@@ -13,38 +13,38 @@ sections:
 
         [Journal papers](#journal-papers) · [Conference papers](#conference-papers) · [Preprints](#preprints) · [White papers](#white-papers) · [Patents](#patents) · [Guest editorials](#guest-editorials)
 
-        Paper titles link to publisher pages, preprints, or university repository records, which provide open-access copies where available. Where a public paper record could not be verified, a **Find paper** search is provided instead. Publisher access restrictions may apply.
+        IEEE paper titles link directly to IEEE Xplore. Other titles link to their publishers, preprints, or university repository records. Where a public paper record could not be verified, a **Find paper** search is provided instead. Publisher access restrictions may apply.
 
         ## Journal papers
 
         ### 2026
 
         - A. Chaves, C. Martín, A. Shahid, and M. Díaz. [Orchestrating TinyML Soft Sensors With Data Streams: A Hybrid Cloud-Edge Architecture for IoT Scenarios][j1]. *Software: Practice and Experience* (2026). [Repository](https://biblio.ugent.be/publication/01M5W5CKXDVHWX3R8ERAV0XX5P).
-        - P. Duong, H. Navidan, J. Fontaine, A. Bröring, A. Shahid, and E. De Poorter. [FedCoBott: Communication-Efficient Personalized Federated Learning for UWB LoS/NLoS Classification][j2]. *IEEE Open Journal of the Communications Society* (2026). [Repository](https://biblio.ugent.be/publication/01M4AT3ANY3Y7KY1J3K5QJNVM3).
-        - H. Navidan, M. Cheraghinia, J. Fontaine, M. Seif, E. De Poorter, H. Vincent Poor, I. Moerman, and A. Shahid. [Toward Autonomous O-RAN: A Multi-Scale Agentic AI Framework for Real-Time Network Control and Management][j3]. *IEEE Network* (2026). [Preprint](https://arxiv.org/abs/2602.14117). [Repository](https://biblio.ugent.be/publication/01KWW0M4NM223N3FP4HR2E5NY6).
-        - A. Lambrecht, S. Luchie, J. Fontaine, B. Van Herbruggen, A. Shahid, and E. De Poorter. [Low-Cost Embedded Breathing Rate Determination Using 802.15.4z IR-UWB Hardware for Remote Healthcare][j4]. *IEEE Sensors Journal* (2026). [Repository](https://biblio.ugent.be/publication/01KYKTWHEPBAM2JWQYR2ZDYEJH).
+        - P. Duong, H. Navidan, J. Fontaine, A. Bröring, A. Shahid, and E. De Poorter. [FedCoBott: Communication-Efficient Personalized Federated Learning for UWB LoS/NLoS Classification][j2]. *IEEE Open Journal of the Communications Society* (2026).
+        - H. Navidan, M. Cheraghinia, J. Fontaine, M. Seif, E. De Poorter, H. Vincent Poor, I. Moerman, and A. Shahid. [Toward Autonomous O-RAN: A Multi-Scale Agentic AI Framework for Real-Time Network Control and Management][j3]. *IEEE Network* (2026). [Preprint](https://arxiv.org/abs/2602.14117).
+        - A. Lambrecht, S. Luchie, J. Fontaine, B. Van Herbruggen, A. Shahid, and E. De Poorter. [Low-Cost Embedded Breathing Rate Determination Using 802.15.4z IR-UWB Hardware for Remote Healthcare][j4]. *IEEE Sensors Journal* (2026).
         - M. Naseri, P. Ashtari, M. Seif, E. De Poorter, H. Vincent Poor, and A. Shahid. [Deep Learning-Based Image Compression for Wireless Communications: Impacts on Robustness, Throughput, and Latency][j5]. *npj Wireless Technology* 2, no. 1 (2026): 14. [Repository](https://biblio.ugent.be/publication/01KPQPG4YE1G5JD2S4HPTX302B).
         - D. Coppens, J. Fontaine, B. Reynders, D. Duyck, I. Moerman, E. De Poorter, and A. Shahid. [QIMO: Q-Learning-Based Adaptive Impairment Margin Optimization in DVB-S2X Satellite Communication][j6]. *Sensors* 26, no. 5 (2026): 1462. [Repository](https://biblio.ugent.be/publication/01KM4ZBDX15T7VZ3S1SQKEQGXE).
-        - H. V. L. B. Silva, F. Figueiredo, S. Mafra, and A. Shahid. [Embedded Real-Time Multi-Risk Detection: An EdgeML-Powered System for Driver Monitoring][j7]. *IEEE Embedded Systems Letters* (2026). [Repository](https://biblio.ugent.be/publication/01KNP36KAXD1EBQTCK9VS4CWH8).
-        - I. Ahmed, K. Shahid, M. Awawdeh, A. Shahid, M. Guenach, and H. Khammari. [Integrated SDR-Based Passive Beamforming and DRL-Driven Analog Beam Selection in IRS-Assisted Massive MIMO System][j8]. *IEEE Access* 14 (2026): 7231–7247. [Repository](https://biblio.ugent.be/publication/01KPQQ4SZPPYQWFH7M6H5WWJPA).
-        - T. De Waele, J. Fontaine, E. De Poorter, and A. Shahid. [Generalized ECG Heartbeat Classification Using Time-Series Transformers][j9]. *IEEE Access* 14 (2026): 7699–7714. [Repository](https://biblio.ugent.be/publication/01KFWT5JX9TZQ36C6Z59AXKHSV).
-        - H. Navidan, C. Martín, V. Maglogiannis, D. Naudts, M. Díaz, I. Moerman, and A. Shahid. [An End-to-End Digital Twin Framework for Dynamic Traffic Analytics in O-RAN][j12]. *IEEE Transactions on Network and Service Management* 23 (2026): 76–92. [Repository](https://biblio.ugent.be/publication/01KEXTERSGXM6C68C2MY69MB9A).
+        - H. V. L. B. Silva, F. Figueiredo, S. Mafra, and A. Shahid. [Embedded Real-Time Multi-Risk Detection: An EdgeML-Powered System for Driver Monitoring][j7]. *IEEE Embedded Systems Letters* (2026).
+        - I. Ahmed, K. Shahid, M. Awawdeh, A. Shahid, M. Guenach, and H. Khammari. [Integrated SDR-Based Passive Beamforming and DRL-Driven Analog Beam Selection in IRS-Assisted Massive MIMO System][j8]. *IEEE Access* 14 (2026): 7231–7247.
+        - T. De Waele, J. Fontaine, E. De Poorter, and A. Shahid. [Generalized ECG Heartbeat Classification Using Time-Series Transformers][j9]. *IEEE Access* 14 (2026): 7699–7714.
+        - H. Navidan, C. Martín, V. Maglogiannis, D. Naudts, M. Díaz, I. Moerman, and A. Shahid. [An End-to-End Digital Twin Framework for Dynamic Traffic Analytics in O-RAN][j12]. *IEEE Transactions on Network and Service Management* 23 (2026): 76–92.
 
         ### 2025
 
-        - M. Cheraghinia, E. De Poorter, J. Fontaine, M. Debbah, and A. Shahid. [A Foundation Model for Wireless Technology Recognition and Localization Tasks][j10]. *IEEE Open Journal of the Communications Society* 6 (2025): 9879–9896. [Repository](https://biblio.ugent.be/publication/01KC3GNFABAKVY9NHG56XY4FW5).
-        - D. Coppens, A. Shahid, and E. De Poorter. [UWB TDoA Error Correction Using Transformers: Patching and Positional Encoding Strategies][j11]. *IEEE Transactions on Wireless Communications* 25 (2025): 7000–7013. [Repository](https://biblio.ugent.be/publication/01KFFM7T74FNX7SD25VM167AT1).
+        - M. Cheraghinia, E. De Poorter, J. Fontaine, M. Debbah, and A. Shahid. [A Foundation Model for Wireless Technology Recognition and Localization Tasks][j10]. *IEEE Open Journal of the Communications Society* 6 (2025): 9879–9896.
+        - D. Coppens, A. Shahid, and E. De Poorter. [UWB TDoA Error Correction Using Transformers: Patching and Positional Encoding Strategies][j11]. *IEEE Transactions on Wireless Communications* 25 (2025): 7000–7013.
         - I. Khalid, V. Maglogiannis, D. Naudts, A. Shahid, and I. Moerman. [Intra-Technology Enhancements for Multi-Service Multi-Priority Short-Range V2X Communication][j13]. *Sensors* 25, no. 8 (2025): 2564.
         - A. Shahid et al. [Large-Scale AI in Telecom: Charting the Roadmap for Innovation, Scalability, and Enhanced Digital Experiences][j14]. arXiv:2503.04184 (2025). Also listed under white papers in the CV.
 
         ### 2024
 
-        - P. Duong, B. Van Herbruggen, A. Bröring, A. Shahid, and E. De Poorter. [Error Mitigation for TDoA UWB Indoor Localization Using Unsupervised Machine Learning][j15]. *IEEE Sensors Journal* 25, no. 1 (2024). [Repository](https://biblio.ugent.be/publication/01JJ46TVCNG4E5DXM8DEKMRRZZ).
-        - M. Naseri, E. De Poorter, I. Moerman, H. Vincent Poor, and A. Shahid. [High-Throughput Adaptive Co-Channel Interference Cancellation for Edge Devices Using Depthwise Separable Convolutions, Quantization, and Pruning][j16]. *IEEE Open Journal of the Communications Society* (2024). Listed as “High-Throughput Blind Co-Channel Interference Cancellation” in the CV. [Repository](https://biblio.ugent.be/publication/01JK5HTAWDGWMJJS2WJXFZYXPX).
-        - S. Leitch, Q. Z. Ahmed, B. Van Herbruggen, M. Baert, J. Fontaine, E. De Poorter, A. Shahid, and P. I. Lazaridis. [Bluetooth Low Energy Dataset Using In-Phase and Quadrature Samples for Indoor Localization][j17]. *IEEE Sensors Journal* (2024). [Repository](https://biblio.ugent.be/publication/01JMVRH5Q2JCG1PPAQFPVYDA3G).
-        - M. Cheraghinia, A. Shahid, S. Luchie, G. J. Gordebeke, O. Caytan, J. Fontaine, and E. De Poorter. [A Comprehensive Overview on UWB Radar: Applications, Standards, Signal Processing Techniques, Datasets, Radio Chips, Trends and Future Research Directions][j18]. *IEEE Communications Surveys & Tutorials* (2024). [Repository](https://biblio.ugent.be/publication/01K5EHFMR11M7GBSMDX9VZC7AF).
+        - P. Duong, B. Van Herbruggen, A. Bröring, A. Shahid, and E. De Poorter. [Error Mitigation for TDoA UWB Indoor Localization Using Unsupervised Machine Learning][j15]. *IEEE Sensors Journal* 25, no. 1 (2024).
+        - M. Naseri, E. De Poorter, I. Moerman, H. Vincent Poor, and A. Shahid. [High-Throughput Adaptive Co-Channel Interference Cancellation for Edge Devices Using Depthwise Separable Convolutions, Quantization, and Pruning][j16]. *IEEE Open Journal of the Communications Society* (2024). Listed as “High-Throughput Blind Co-Channel Interference Cancellation” in the CV.
+        - S. Leitch, Q. Z. Ahmed, B. Van Herbruggen, M. Baert, J. Fontaine, E. De Poorter, A. Shahid, and P. I. Lazaridis. [Bluetooth Low Energy Dataset Using In-Phase and Quadrature Samples for Indoor Localization][j17]. *IEEE Sensors Journal* (2024).
+        - M. Cheraghinia, A. Shahid, S. Luchie, G. J. Gordebeke, O. Caytan, J. Fontaine, and E. De Poorter. [A Comprehensive Overview on UWB Radar: Applications, Standards, Signal Processing Techniques, Datasets, Radio Chips, Trends and Future Research Directions][j18]. *IEEE Communications Surveys & Tutorials* (2024).
         - M. Naseri, A. Shahid, and E. De Poorter. [Adapting UWB AoA Estimation Towards Unseen Environments Using Transfer Learning and Data Augmentation][j19]. *Internet of Things* 27 (2024): 101298.
-        - D. Coppens, B. Van Herbruggen, A. Shahid, and E. De Poorter. [Removing the Need for Ground Truth UWB Data Collection: Self-Supervised Ranging Error Correction Using Deep Reinforcement Learning][j20]. *IEEE Transactions on Machine Learning in Communications and Networking* (2024). [Repository](https://biblio.ugent.be/publication/01JCJHDZFEP42J4KJ70DC4HN62).
+        - D. Coppens, B. Van Herbruggen, A. Shahid, and E. De Poorter. [Removing the Need for Ground Truth UWB Data Collection: Self-Supervised Ranging Error Correction Using Deep Reinforcement Learning][j20]. *IEEE Transactions on Machine Learning in Communications and Networking* (2024).
         - A. Hollevoet, T. De Waele, D. Peralta, F. Tuyttens, E. De Poorter, and A. Shahid. [Goats on the Move: Evaluating Machine Learning Models for Goat Activity Analysis Using Accelerometer Data][j21]. *Animals* (2024).
         - B. Van Herbruggen, J. Fontaine, J. Simoen, L. De Mey, D. Peralta, A. Shahid, and E. De Poorter. [Strategy Analysis of Badminton Players Using Deep Learning From IMU and UWB Wearables][j22]. *Internet of Things* (2024).
         - S. Sattar, R. Mumtaz, M. Qadir, S. Mumtaz, M. A. Khan, T. De Waele, E. De Poorter, and A. Shahid. [Cardiac Arrhythmia Classification Using Advanced Deep Learning Techniques on Digitized ECG Datasets][j23]. *Sensors* 24, no. 8 (2024): 2484.
@@ -256,67 +256,67 @@ sections:
         - A. Anpalagan, A. Shahid, W. Ejaz, M. A. Imran, K. Sithamparanathan, and Y. Xu. *Evolution and Development of 5G Wireless Communication Systems*. IET Communications (2016).
 
         [j1]: https://doi.org/10.1002/spe.70119
-        [j2]: https://doi.org/10.1109/OJCOMS.2026.3740787
-        [j3]: https://doi.org/10.1109/MNET.2026.3701847
-        [j4]: https://doi.org/10.1109/JSEN.2026.3698502
+        [j2]: https://ieeexplore.ieee.org/document/11721201/
+        [j3]: https://ieeexplore.ieee.org/document/11574930/
+        [j4]: https://ieeexplore.ieee.org/document/11552906/
         [j5]: https://doi.org/10.1038/s44459-025-00019-6
         [j6]: https://doi.org/10.3390/s26051462
-        [j7]: https://doi.org/10.1109/LES.2026.3662330
-        [j8]: https://doi.org/10.1109/ACCESS.2026.3651969
-        [j9]: https://doi.org/10.1109/ACCESS.2026.3651029
-        [j12]: https://doi.org/10.1109/TNSM.2025.3628756
-        [j10]: https://doi.org/10.1109/OJCOMS.2025.3636436
-        [j11]: https://doi.org/10.1109/TWC.2025.3628168
+        [j7]: https://ieeexplore.ieee.org/document/11381425/
+        [j8]: https://ieeexplore.ieee.org/document/11339482/
+        [j9]: https://ieeexplore.ieee.org/document/11347064/
+        [j12]: https://ieeexplore.ieee.org/document/11224872/
+        [j10]: https://ieeexplore.ieee.org/document/11264506/
+        [j11]: https://ieeexplore.ieee.org/document/11237034/
         [j13]: https://biblio.ugent.be/publication/01JTFY0X4RGQK88GYRKD4SJWCT
         [j14]: https://arxiv.org/abs/2503.04184
-        [j15]: https://doi.org/10.1109/JSEN.2024.3496086
-        [j16]: https://doi.org/10.1109/OJCOMS.2024.3523797
-        [j17]: https://doi.org/10.1109/JSEN.2024.3510213
-        [j18]: https://doi.org/10.1109/COMST.2024.3488173
+        [j15]: https://ieeexplore.ieee.org/document/10756551/
+        [j16]: https://ieeexplore.ieee.org/document/10817537/
+        [j17]: https://ieeexplore.ieee.org/document/10794607/
+        [j18]: https://ieeexplore.ieee.org/document/10738385/
         [j19]: https://biblio.ugent.be/publication/01J4R9PH5Q14SJBM2AYJNRKGWX
-        [j20]: https://doi.org/10.1109/TMLCN.2024.3469128
+        [j20]: https://ieeexplore.ieee.org/document/10695458/
         [j21]: https://biblio.ugent.be/publication/01J41JJ325W0KVSZRFTQHEFAJD
         [j22]: https://biblio.ugent.be/publication/01J41JC4BQ1FFZ8JQJX22QHN3Z
         [j23]: https://biblio.ugent.be/publication/01HX6K8THCT2VH75V7YCSPQ2V4
-        [j24]: https://biblio.ugent.be/publication/01HWWRFCMGG8ZAWKDV7RJK1E96
+        [j24]: https://ieeexplore.ieee.org/document/10477551/
         [j25]: https://biblio.ugent.be/publication/01HXRN6N2YCBC3CDHZYDCTXWT4
-        [j26]: https://biblio.ugent.be/publication/01HVGDR5YNCT0RB0RFH3M7P0NA
-        [j27]: https://biblio.ugent.be/publication/01HVGE796EBFWJ9DMAWPFJTKT3
-        [j28]: https://biblio.ugent.be/publication/01J41GP1TXB01PQBF784XPHKMC
-        [j29]: https://biblio.ugent.be/publication/01J2K09HR5CCA054PQBB5WKYM7
-        [j30]: https://biblio.ugent.be/publication/01HVGFVZGWHSRJNN1RJVW2Y5MC
-        [j31]: https://biblio.ugent.be/publication/01H6B9PW06BSXBB7XX1XCPTX60
-        [j32]: https://biblio.ugent.be/publication/01H2QPSWN2YXE64ZPBMPYPQEHA
+        [j26]: https://ieeexplore.ieee.org/document/10273695/
+        [j27]: https://ieeexplore.ieee.org/document/10331918/
+        [j28]: https://ieeexplore.ieee.org/document/10313113/
+        [j29]: https://ieeexplore.ieee.org/document/10339677/
+        [j30]: https://ieeexplore.ieee.org/document/10195942/
+        [j31]: https://ieeexplore.ieee.org/document/10102796/
+        [j32]: https://ieeexplore.ieee.org/document/10064125/
         [j33]: https://biblio.ugent.be/publication/01GPWZAV481G6WN28HS9ASW6R4
-        [j34]: https://doi.org/10.1109/IOTM.001.2200158
-        [j35]: https://biblio.ugent.be/publication/8770001
-        [j36]: https://biblio.ugent.be/publication/8765497
-        [j37]: https://biblio.ugent.be/publication/8757709
+        [j34]: https://ieeexplore.ieee.org/document/10012470/
+        [j35]: https://ieeexplore.ieee.org/document/9870651/
+        [j36]: https://ieeexplore.ieee.org/document/9810941/
+        [j37]: https://ieeexplore.ieee.org/document/9756501/
         [j38]: https://biblio.ugent.be/publication/8734839
         [j39]: https://biblio.ugent.be/publication/01GJMJVNCVJDT9AAQXPRJ2GW9H
         [j40]: https://biblio.ugent.be/publication/8733251
         [j41]: https://biblio.ugent.be/publication/8728870
-        [j42]: https://biblio.ugent.be/publication/8703420
-        [j43]: https://biblio.ugent.be/publication/8682790
+        [j42]: https://ieeexplore.ieee.org/document/9378539/
+        [j43]: https://ieeexplore.ieee.org/document/9241880/
         [j44]: https://biblio.ugent.be/publication/8681923
-        [j45]: https://biblio.ugent.be/publication/8673069
-        [j46]: https://biblio.ugent.be/publication/8699099
+        [j45]: https://ieeexplore.ieee.org/document/9151945/
+        [j46]: https://ieeexplore.ieee.org/document/8903493/
         [j47]: https://biblio.ugent.be/publication/8630442
         [j48]: https://biblio.ugent.be/publication/8623409
-        [j49]: https://biblio.ugent.be/publication/8611429
+        [j49]: https://ieeexplore.ieee.org/document/8661488/
         [j50]: https://biblio.ugent.be/publication/8577604
         [j51]: https://biblio.ugent.be/publication/8569046
-        [j52]: https://biblio.ugent.be/publication/8585223
-        [j53]: https://biblio.ugent.be/publication/8566955
+        [j52]: https://ieeexplore.ieee.org/document/8371237/
+        [j53]: https://ieeexplore.ieee.org/document/8359404/
         [j54]: https://biblio.ugent.be/publication/8539090
         [j55]: https://biblio.ugent.be/publication/8533816
-        [j56]: https://biblio.ugent.be/publication/8534109
-        [j57]: https://biblio.ugent.be/publication/8516986
-        [j58]: https://biblio.ugent.be/publication/8518280
-        [j59]: https://biblio.ugent.be/publication/8518278
-        [j60]: https://biblio.ugent.be/publication/8518275
+        [j56]: https://ieeexplore.ieee.org/document/8047250/
+        [j57]: https://ieeexplore.ieee.org/document/7812573/
+        [j58]: https://ieeexplore.ieee.org/document/7765139/
+        [j59]: https://ieeexplore.ieee.org/document/7782769/
+        [j60]: https://ieeexplore.ieee.org/document/7823343/
         [j61]: https://doi.org/10.3390/s16101647
-        [j62]: https://doi.org/10.1109/lcomm.2016.2525985
+        [j62]: https://ieeexplore.ieee.org/document/7449015/
         [j63]: https://doi.org/10.1186/s13634-015-0227-9
         [j64]: https://doi.org/10.1155/2015/892151
         [j65]: https://doi.org/10.1016/j.compeleceng.2014.05.008
@@ -327,59 +327,59 @@ sections:
         [j70]: https://doi.org/10.1186/1687-1499-2013-203
         [j71]: https://doi.org/10.3390/e15072524
         [j72]: https://jit.ndhu.edu.tw/article/view/889
-        [c1]: https://biblio.ugent.be/publication/01M7A20TYV079XEFAMJ3N6XWF2
-        [c2]: https://biblio.ugent.be/publication/01KVSQQN217D45BBQRY4ENWE2D
-        [c3]: https://biblio.ugent.be/publication/01KC92AE6AECND2Q6TNX46JX3H
-        [c4]: https://arxiv.org/abs/2511.14895
+        [c1]: https://ieeexplore.ieee.org/document/11772482/
+        [c2]: https://ieeexplore.ieee.org/document/11711785/
+        [c3]: https://ieeexplore.ieee.org/document/11299274/
+        [c4]: https://ieeexplore.ieee.org/document/11591243/
         [c5]: https://arxiv.org/abs/2511.16369
-        [c6]: https://biblio.ugent.be/publication/01M1KM9EJDY5A4TC31HTMVPNBM
-        [c7]: https://biblio.ugent.be/publication/01K99MN87W4N1ZRQPTDN03YCB5
-        [c8]: https://biblio.ugent.be/publication/01JZ0477NE4D3DQV6R8JCCBFJB
-        [c9]: https://biblio.ugent.be/publication/01KCGHZDBXAK8TH74D8AF9Q9AR
-        [c10]: https://biblio.ugent.be/publication/01K9YVYJK9AG4MWK8YP1DQ3GR5
-        [c11]: https://biblio.ugent.be/publication/01JQNTBA408KZ5AGWXAN9XPD52
-        [c12]: https://biblio.ugent.be/publication/01JCJHS9BC8PVRD7Y2V0MPGD00
-        [c13]: https://biblio.ugent.be/publication/01J8F2CYK0SCZW9DQCCFWAYATM
-        [c14]: https://biblio.ugent.be/publication/01J41BZ6Q4HZ89XJHH0ZMFW6T4
-        [c15]: https://biblio.ugent.be/publication/01JGX8ERBWDVZF8RHSXTBQNDDG
-        [c16]: https://biblio.ugent.be/publication/01JEDPDY3AMD04TWBEHV6S438R
-        [c17]: https://biblio.ugent.be/publication/01J7NEAXF1CSHBRT6BTG7P7Y70
-        [c18]: https://biblio.ugent.be/publication/01JEDPT713PBZAYK3NJGKKWMCA
-        [c19]: https://biblio.ugent.be/publication/01JBV9R6M5S3NMJWQHZK3RT064
-        [c20]: https://biblio.ugent.be/publication/01HGZAKXT9CNA6GW3NGQZSWBVF
-        [c21]: https://biblio.ugent.be/publication/01H11DJKA5QDZPDY95Q19MN4S9
-        [c22]: https://biblio.ugent.be/publication/01H11F0V2YJFGG0A9J95CQVW5W
-        [c23]: https://biblio.ugent.be/publication/01GKV9KEEMTZCKE0736BQPDQ4S
-        [c24]: https://biblio.ugent.be/publication/8755702
-        [c25]: https://biblio.ugent.be/publication/8739005
-        [c26]: https://biblio.ugent.be/publication/8730905
-        [c27]: https://biblio.ugent.be/publication/8684903
-        [c28]: https://biblio.ugent.be/publication/8683397
-        [c29]: https://biblio.ugent.be/publication/8673059
-        [c30]: https://biblio.ugent.be/publication/8682793
-        [c31]: https://biblio.ugent.be/publication/8654309
-        [c32]: https://biblio.ugent.be/publication/8676359
+        [c6]: https://ieeexplore.ieee.org/document/11212961/
+        [c7]: https://ieeexplore.ieee.org/document/11037133/
+        [c8]: https://ieeexplore.ieee.org/document/11037177/
+        [c9]: https://ieeexplore.ieee.org/document/11275484/
+        [c10]: https://ieeexplore.ieee.org/document/11073653/
+        [c11]: https://ieeexplore.ieee.org/document/10826034/
+        [c12]: https://ieeexplore.ieee.org/document/10786138/
+        [c13]: https://ieeexplore.ieee.org/document/10651531/
+        [c14]: https://ieeexplore.ieee.org/document/10578362/
+        [c15]: https://ieeexplore.ieee.org/document/10683131/
+        [c16]: https://ieeexplore.ieee.org/document/10615509/
+        [c17]: https://ieeexplore.ieee.org/document/10501463/
+        [c18]: https://ieeexplore.ieee.org/document/10626228/
+        [c19]: https://ieeexplore.ieee.org/document/10632825/
+        [c20]: https://ieeexplore.ieee.org/document/10225864/
+        [c21]: https://ieeexplore.ieee.org/document/10124903/
+        [c22]: https://ieeexplore.ieee.org/document/10060040/
+        [c23]: https://ieeexplore.ieee.org/document/9952790/
+        [c24]: https://ieeexplore.ieee.org/document/9787419/
+        [c25]: https://ieeexplore.ieee.org/document/9595172/
+        [c26]: https://ieeexplore.ieee.org/document/9613562/
+        [c27]: https://ieeexplore.ieee.org/document/9269064/
+        [c28]: https://ieeexplore.ieee.org/document/9348566/
+        [c29]: https://ieeexplore.ieee.org/document/9162663/
+        [c30]: https://ieeexplore.ieee.org/document/9162969/
+        [c31]: https://ieeexplore.ieee.org/document/9083766/
+        [c32]: https://ieeexplore.ieee.org/document/8935774/
         [c33]: https://biblio.ugent.be/publication/8637034
-        [c34]: https://biblio.ugent.be/publication/8637812
+        [c34]: https://ieeexplore.ieee.org/document/8935690/
         [c35]: https://grouper.ieee.org/groups/802/11/Workshops/2019-July-Coex/2019_07_17_CoEx2019_presentation_Jerome_final_v1.pptx
-        [c36]: https://biblio.ugent.be/publication/8637794
-        [c37]: https://biblio.ugent.be/publication/8637806
-        [c38]: https://biblio.ugent.be/publication/8637803
+        [c36]: https://ieeexplore.ieee.org/document/8824856/
+        [c37]: https://ieeexplore.ieee.org/document/8756672/
+        [c38]: https://ieeexplore.ieee.org/document/8845259/
         [c39]: https://scholar.google.com/scholar?q=%22Classification%20of%20LPWAN%20Technologies%20Using%20Convolutional%20Neural%20Network%22%20Shahid
-        [c40]: https://biblio.ugent.be/publication/8573077
-        [c41]: https://biblio.ugent.be/publication/8573381
+        [c40]: https://ieeexplore.ieee.org/document/8391371/
+        [c41]: https://ieeexplore.ieee.org/document/8656742/
         [c42]: https://biblio.ugent.be/publication/8537115
-        [c43]: https://doi.org/10.1109/aims.2014.26
-        [c44]: https://doi.org/10.1109/i4ct.2014.6914162
-        [c45]: https://doi.org/10.1109/icufn.2014.6876766
+        [c43]: https://ieeexplore.ieee.org/document/7102479/
+        [c44]: https://ieeexplore.ieee.org/document/6914162/
+        [c45]: https://ieeexplore.ieee.org/document/6876766/
         [c46]: https://www.vde-verlag.de/proceedings-en/563621007.html
-        [c47]: https://doi.org/10.1109/iceac.2013.6737631
-        [c48]: https://doi.org/10.1109/ictc.2013.6675420
-        [c49]: https://doi.org/10.1109/ngmast.2013.49
-        [c50]: https://doi.org/10.1109/fgct.2012.6476564
+        [c47]: https://ieeexplore.ieee.org/document/6737631/
+        [c48]: https://ieeexplore.ieee.org/document/6675420/
+        [c49]: https://ieeexplore.ieee.org/document/6658130/
+        [c50]: https://ieeexplore.ieee.org/document/6476564/
         [c51]: https://sejong.elsevierpure.com/en/publications/an-efficient-hybrid-shopping-mall-with-advanced-purchasing-system/
-        [c52]: https://doi.org/10.1109/iccnt.2010.30
-        [c53]: https://doi.org/10.1109/iccea.2010.162
+        [c52]: https://ieeexplore.ieee.org/document/5474504/
+        [c53]: https://ieeexplore.ieee.org/document/5445628/
     design:
       columns: "1"
 ---
