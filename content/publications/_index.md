@@ -9,12 +9,6 @@ sections:
       title: Publications
       subtitle: Journal articles, conference papers, and other research outputs.
       text: |-
-        The complete publication list from my CV: **72 journal papers, 53 conference papers, 2 white papers, 3 patents, and 2 guest editorials**, together with newer preprints previously listed on this website. Categories and publication years follow the CV.
-
-        [Journal papers](#journal-papers) · [Conference papers](#conference-papers) · [Preprints](#preprints) · [White papers](#white-papers) · [Patents](#patents) · [Guest editorials](#guest-editorials)
-
-        IEEE paper titles link directly to IEEE Xplore. Other titles link to their publishers, preprints, or university repository records. Where a public paper record could not be verified, a **Find paper** search is provided instead. Publisher access restrictions may apply.
-
         ## Journal papers
 
         ### 2026
